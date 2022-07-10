@@ -1,1 +1,1 @@
-# agmod-client-updated-releases
+**Bugtracker and releases.**
