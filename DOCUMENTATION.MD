@@ -12,6 +12,7 @@ ag66u_checkupdate - проверить клиент на обновления
 ag66u_version - показывает версию вашего клиента
 ag66u_updateclient - обновить клиент
 ag66u_ignore_update_checking - игнорировать проверку обновлений при обновлении клиента
+ag66u_show_updatemsg - показывать уведомление о новом обновлении вверху
 cl_autorecord - автоматическая запись демо при отсчёте начала матча
 cl_autostop - автоматическая остановка записи демо после матча
 cl_autowepswitch - автопереключение оружия при подборе
@@ -88,6 +89,8 @@ hud_reloadstatus - статус перезарядки оружия
 hud_reloadstatus_pos - позиция статуса перезарядки оружия
 hud_scoreboard_color - цвет обычного скорборда (R/G/B/ИНВЕРТ-A)
 hud_scoreboard_kd - графа К/Д в обычном скорборде
+hud_weapon_denom_x - знаменатель для X координаты (ШИРИНА ЭКРАНА делится на значение hud_weapon_denom_x)
+hud_weapon_denom_y - знаменатель для Y координаты (ОФФСЕТ СПРАЙТА ОРУЖИЯ делится на значение hud_weapon_denom_y)
 hw_disable_dynamic_lightmaps - отключает абсолютно весь динамический свет в игре (лучшая версия r_dynamic_ent_light)
 hw_disable_mdl_effects - отключает эффекты от моделек некоторых
 hw_disable_mdl_textures - отключает текстуры моделей и заменяет их на последнюю загруженную
