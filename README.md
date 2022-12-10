@@ -1,7 +1,7 @@
 **Bugtracker and releases. Багтрекер и версии AG 6.6-U.**
 
 **Download (Скачать): [HERE](https://github.com/ScriptedSnark/agmod-client-updated-releases/releases/latest)** |
-**Documentation (Документация): [HERE](https://github.com/ScriptedSnark/agmod-client-updated-releases/DOCUMENTATION.MD)**
+**Documentation (Документация): [HERE](https://github.com/ScriptedSnark/agmod-client-updated-releases/blob/main/DOCUMENTATION.MD)**
 
 # Adrenaline Gamer 6.6 Mod Updated
 
