@@ -67,7 +67,6 @@ dl_realnames - скачать реалнеймы. Берёт ссылку с dl_
 dl_realnames_url - ссылка на скачивание реалнеймов
 hud_alwaysactive - делает весь HUD активным (прозрачность ставится на 255)
 hud_breathstatus - статус дыхания под водой
-hud_crosshair_scale - масштабирование .spr прицела
 hud_colortext - консоль заиграет новыми красками))
 hud_customsprite - включает ваш кастомный спрайт
 hud_customsprite_name - путь до вашего спрайта
