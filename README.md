@@ -28,8 +28,8 @@ Thanks to:
 ## Screenshots
 
 ![изображение](https://user-images.githubusercontent.com/51358194/206751483-27ab2afa-51ce-40d1-bc8b-8475dfc8d9c9.png)
-
 ![datacore0020](https://user-images.githubusercontent.com/51358194/206753537-1bb06fd6-27f5-45eb-bed1-6a5b730b5ca8.png)
 ![boot_camp0078](https://user-images.githubusercontent.com/51358194/206753575-8f276d4b-455e-4e15-957b-9fcef5a8d49f.png)
 ![boot_camp0077](https://user-images.githubusercontent.com/51358194/206753608-aefc9698-a2cc-4973-816f-c9d37dd27d26.png)
-![datacore0023](https://user-images.githubusercontent.com/51358194/206753678-22f7ddff-4f91-4385-800d-cf2ad236841d.png)
+![crossfire0235](https://user-images.githubusercontent.com/51358194/226884660-316f9cb2-f706-481e-af1f-40f456f0618f.png)
+![endcamp0021](https://user-images.githubusercontent.com/51358194/226885135-1d99fb76-d22f-4ac2-96b0-e84cf4b26b33.png)
