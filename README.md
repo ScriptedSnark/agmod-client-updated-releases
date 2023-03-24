@@ -16,8 +16,9 @@ Thanks to:
 - @LevShisterov - for BugfixedHL source code (thanks a lot to aghl.ru)  
 - @RezWaki - for helping in learning some cool features of HL SDK, for Sharp_Client source code
 - @BlueNightHawk - for modern HL SDK features like Xash shadows, smooth FOV, math functions and etc.  
-- @YaLTeR - for OpenAG source code  
-- rofi - for Rofi's Client DLL  
+- @YaLTeR - for OpenAG source code
+- rofi - for Rofi's Client DLL
+- @mav745 - for Maverick's Client DLL (AG: Reborn)  
 - @naseonelove - for testing client  
 - @L09k0 - for testing client  
 - @sobakaruzhaya - for testing client  
